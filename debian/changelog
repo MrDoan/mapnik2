@@ -1,0 +1,60 @@
+mapnik2 (2.0.0~svn2984-1) unstable; urgency=low
+
+  * New upstream version
+
+ -- Anthony Prades <anthony.prades@makina-corpus.com>  Mon, 20 Jun 2011 14:24:41 +0200
+
+mapnik2 (2.0.0~svn2979-3) unstable; urgency=low
+
+  * Remove mapnik-config from mapnik2-utils package
+
+ -- Anthony Prades <anthony.prades@makina-corpus.com>  Mon, 20 Jun 2011 14:23:46 +0200
+
+mapnik2 (2.0.0~svn2979-2) unstable; urgency=low
+
+  * Fix library links
+
+ -- Anthony Prades <anthony.prades@makina-corpus.com>  Thu, 16 Jun 2011 10:30:57 +0200
+
+mapnik2 (2.0.0~svn2979-1) unstable; urgency=low
+
+  * Changing verion syntax
+
+ -- Anthony Prades <anthony.prades@makina-corpus.com>  Wed, 15 Jun 2011 18:12:10 +0200
+
+mapnik2 (2.0.0~2979-2) unstable; urgency=low
+
+  * Include "mapnik-config" script in libmapnik2.0-dev
+
+ -- Anthony Prades <anthony.prades@makina-corpus.com>  Wed, 15 Jun 2011 17:20:44 +0200
+
+mapnik2 (2.0.0~2979-1) unstable; urgency=low
+
+  * New upstream version
+
+ -- Anthony Prades <anthony.prades@makina-corpus.com>  Wed, 15 Jun 2011 16:37:21 +0200
+
+mapnik2 (2.0.0~2941-4) unstable; urgency=low
+
+  * Rename libmanik2 package
+
+ -- Anthony Prades <anthony.prades@makina-corpus.com>  Tue, 14 Jun 2011 17:43:01 +0200
+
+mapnik2 (2.0.0~2941-3) unstable; urgency=low
+
+  * Debian versionning change: use SVN release in upstream release
+  * Cleannin gpackaging
+
+ -- Anthony Prades <anthony.prades@makina-corpus.com>  Tue, 14 Jun 2011 16:30:06 +0200
+
+mapnik2 (2.0.0~2941-2) unstable; urgency=low
+
+  * Switch to dpkg-source 3.0 (quilt) format
+
+ -- Anthony Prades <anthony.prades@makina-corpus.com>  Thu, 09 Jun 2011 16:07:48 +0200
+
+mapnik2 (2.0.0~2941-1) UNRELEASED; urgency=low
+
+  * Initial release.
+
+ -- Anthony Prades <anthony.prades@makina-corpus.com>  Wed, 01 Jun 2011 16:30:33 +0200
