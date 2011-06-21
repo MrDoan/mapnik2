@@ -30,8 +30,8 @@ Standards-Version: 3.9.1
 Section: libs
 XS-Python-Version: >= 2.5
 Homepage: http://www.mapnik.org/
-Vcs-Git: git://git.debian.org/pkg-grass/mapnik.git
-Vcs-Browser: http://git.debian.org/?p=pkg-grass/mapnik.git
+Vcs-Git: git://github.com/makinacorpus/mapnik2.git
+Vcs-Browser: https://github.com/makinacorpus/mapnik2
 
 Package: libmapnik2-2.0
 Architecture: amd64
@@ -60,7 +60,7 @@ Section: libdevel
 Architecture: any
 Depends:
  ${misc:Depends},
- libmapnik2.0 (= ${binary:Version}),
+ libmapnik2-2.0 (= ${binary:Version}),
  libc6-dev | libc-dev,
  libboost-dev (>= 1.42),
  libicu-dev (>= 4.2),

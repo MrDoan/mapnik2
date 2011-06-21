@@ -1,3 +1,10 @@
+mapnik2 (2.0.0~svn2984-2) unstable; urgency=low
+
+  * Fix dependency
+  * Better repo cleanning
+
+ -- Anthony Prades <anthony.prades@makina-corpus.com>  Tue, 21 Jun 2011 17:07:54 +0200
+
 mapnik2 (2.0.0~svn2984-1) unstable; urgency=low
 
   * New upstream version
