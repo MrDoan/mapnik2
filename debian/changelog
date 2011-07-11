@@ -1,3 +1,9 @@
+mapnik2 (2.0.0~svn2984-4) unstable; urgency=low
+
+  * Adding generate_image.py script, fork and adapt for Mapnik2 from OSM SVN
+
+ -- Anthony Prades <anthony.prades@makina-corpus.com>  Wed, 06 Jul 2011 17:36:58 +0200
+
 mapnik2 (2.0.0~svn2984-3) unstable; urgency=low
 
   * Fix python bindings

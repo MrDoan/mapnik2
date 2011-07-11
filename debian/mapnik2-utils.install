@@ -2,3 +2,4 @@ usr/bin/shapeindex
 usr/bin/howfast.py
 usr/bin/svg2png
 usr/bin/upgrade_map_xml.py
+usr/bin/generate_image.py

@@ -39,6 +39,7 @@ override_dh_install:
 	install -m 755 utils/mapnik-config/mapnik-config $(TMPPKG)/usr/bin
 	install -m 644 bindings/python/mapnik/*py $(TMPPKG)/usr/lib/python2.6/dist-packages/mapnik2/
 	install -m 644 bindings/python/mapnik/*in $(TMPPKG)/usr/lib/python2.6/dist-packages/mapnik2/
+	install -m 755 debian/generate_image.py $(TMPPKG)/usr/bin/generate_image.py
 	cp -a bindings/python/mapnik/ogcserver $(TMPPKG)/usr/lib/python2.6/dist-packages/mapnik2/
 	dh_install --sourcedir=$(TMPPKG)
 	dh_link -plibmapnik2-2.0 usr/lib/libmapnik2.so.2.0.0 usr/lib/libmapnik2.so.2.0
